@@ -24,3 +24,8 @@
 Формулы, что, как набат...
 А вдали — шаги докторские —
 Точно Кащенко идёт.
+
+
+<div align="center">  
+  <img src="https://trikky.ru/wp-content/blogs.dir/1/files/2021/10/20/image-862209192214338119696.gif" width="400" />  
+</div>  
